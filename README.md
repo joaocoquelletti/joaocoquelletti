@@ -27,3 +27,8 @@ I work with Django, Object-Oriented Programming (OOP), APIs, mobile, cloud, LLMs
 ## Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" /> </p>
 
+<div align="center"> <img height="160" src="https://streak-stats.demolab.com?user=joaocoquelletti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" alt="GitHub streak" /> </div>
+
+## Connect With Me
+<p align="center"> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-portocarrero-coquelletti-26a2aa28a" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /> </a> </p>
+<p align="center"> <i>"Learning every day, building with purpose and turning curiosity into code."</i> </p>
