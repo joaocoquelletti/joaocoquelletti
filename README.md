@@ -23,3 +23,7 @@ I work with Django, Object-Oriented Programming (OOP), APIs, mobile, cloud, LLMs
 - Interested in APIs, databases, AI, infrastructure and software architecture
 - Always learning through projects, reading and consistent practice
 - Open to internships, junior opportunities and collaborative projects
+
+## Tech Stack
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" /> </p>
+
