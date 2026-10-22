@@ -24,9 +24,6 @@ I work with Django, Object-Oriented Programming (OOP), APIs, mobile, cloud, LLMs
 - Always learning through projects, reading and consistent practice
 - Open to internships, junior opportunities and collaborative projects
 
-## Tech Stack
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Cloud" /> </p>
-
 
 ## Connect With Me
 <p align="center"> <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-portocarrero-coquelletti-26a2aa28a" target="_blank"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="LinkedIn" /> </a> </p>
