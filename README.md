@@ -11,3 +11,15 @@ var Joao = {
   'hobbies': ['Studies & Reading', 'Programming', 'Sports'],
 };
 ```
+
+## About Me
+I'm a technology student from Brazil. I completed a technical course at SENAI and I'm currently in the second year of Systems Analysis and Development (ADS) at Unianchieta.
+
+I have hands-on experience with projects using Scrum and Kanban, and I have advanced English.
+
+I work with Django, Object-Oriented Programming (OOP), APIs, mobile, cloud, LLMs and agents.
+
+- Currently in continuous study of programming and English, and of Clean Code techniques
+- Interested in APIs, databases, AI, infrastructure and software architecture
+- Always learning through projects, reading and consistent practice
+- Open to internships, junior opportunities and collaborative projects
